@@ -126,7 +126,7 @@ nav{
 {
     display: flex;
     flex-shrink:inherit;
-    background-image: url(HTML/mockup1.png);
+    background-image: url(mockup1.png);
     background-size: contain;
     height: 80vh;
     width: auto;
@@ -169,13 +169,13 @@ nav{
 #video-image
 {
     margin-top: 1rem;
-    background-image: url(HTML/mockup2.png);
+    background-image: url(mockup2.png);
     height: 120vh;
     background-repeat: no-repeat;
 }
 #entertainment-image
 {
-    background-image: url(HTML/section-bg.jpeg);
+    background-image: url(section-bg.jpeg);
     width: 100%;
     height:30vh;
     background-size: cover;
